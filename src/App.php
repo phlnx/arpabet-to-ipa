@@ -216,14 +216,14 @@ class App {
 		  IH R or IY R	ɪr	ear (IY1 R); near (N IH1 R)
 		  AW R			aʊr	This seems to be a rarely used r-controlled vowel. In some dialects flower (F L AW1 R; in other dialects F L AW1 ER0)
 		 */
-		, 'ER'		=> array ( 'type' => 'consonant' , 'category' => 'r-colored vowel' , 'phoneme' => 'ɜr' )
-		, 'ER0'		=> array ( 'type' => 'consonant' , 'category' => 'r-colored vowel' , 'phoneme' => 'ɜr' )
-		, 'ER1'		=> array ( 'type' => 'consonant' , 'category' => 'r-colored vowel' , 'phoneme' => 'ɜr' )
-		, 'ER2'		=> array ( 'type' => 'consonant' , 'category' => 'r-colored vowel' , 'phoneme' => 'ɜr' )
-		, 'AXR'		=> array ( 'type' => 'consonant' , 'category' => 'r-colored vowel' , 'phoneme' => 'ər' )
-		, 'AXR0'	=> array ( 'type' => 'consonant' , 'category' => 'r-colored vowel' , 'phoneme' => 'ər' )
-		, 'AXR1'	=> array ( 'type' => 'consonant' , 'category' => 'r-colored vowel' , 'phoneme' => 'ər' )
-		, 'AXR2'	=> array ( 'type' => 'consonant' , 'category' => 'r-colored vowel' , 'phoneme' => 'ər' )
+		, 'ER'		=> array ( 'type' => 'vowel' , 'category' => 'r-colored vowel' , 'phoneme' => 'ɜr' )
+		, 'ER0'		=> array ( 'type' => 'vowel' , 'category' => 'r-colored vowel' , 'phoneme' => 'ɜr' )
+		, 'ER1'		=> array ( 'type' => 'vowel' , 'category' => 'r-colored vowel' , 'phoneme' => 'ɜr' )
+		, 'ER2'		=> array ( 'type' => 'vowel' , 'category' => 'r-colored vowel' , 'phoneme' => 'ɜr' )
+		, 'AXR'		=> array ( 'type' => 'vowel' , 'category' => 'r-colored vowel' , 'phoneme' => 'ər' )
+		, 'AXR0'	=> array ( 'type' => 'vowel' , 'category' => 'r-colored vowel' , 'phoneme' => 'ər' )
+		, 'AXR1'	=> array ( 'type' => 'vowel' , 'category' => 'r-colored vowel' , 'phoneme' => 'ər' )
+		, 'AXR2'	=> array ( 'type' => 'vowel' , 'category' => 'r-colored vowel' , 'phoneme' => 'ər' )
 		/*
 		  Consonants - Semivowels
 		  Arpabet	IPA	Word Examples

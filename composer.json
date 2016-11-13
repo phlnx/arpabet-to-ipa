@@ -1,6 +1,6 @@
 {
-	"name" : "wwesantos/arpabet-to-ipa",
-	"description" : "Convert Arpabet to IPA. Arpabet is the set of phonemes used by the CMU Pronouncing Dictionary. IPA is the International Phonetic Alphabet",
+	"name" : "phlnx/arpabet-to-ipa",
+	"description" : "Convert Arpabet to IPA, including primary and secondary stresses. Arpabet is the set of phonemes used by the CMU Pronouncing Dictionary. IPA is the International Phonetic Alphabet",
 	"keywords" : [
 		"arpabet",
 		"ipa",
@@ -8,11 +8,11 @@
 		"phoneme",
 		"pronunciation"
 	],
-	"homepage" : "http://github.com/wwesantos/arpabet-to-ipa",
+	"homepage" : "http://github.com/phlnx/arpabet-to-ipa",
 	"license" : "MIT",
 	"authors" : [{
-			"name" : "Waldeilson Eder dos Santos",
-			"homepage" : "http://www.linkedin.com/in/waldeilson/en"
+			"name" : "Manuel Giorgini",
+			"homepage" : "http://github.com/phlnx"
 		}
 	],
 	"require" : {
