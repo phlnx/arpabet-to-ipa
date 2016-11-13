@@ -295,7 +295,7 @@ class App {
 			if ( $stress !== 0 ) {
 				$aStressFound["$stress"] = $i;
 				$nPhonemeToBeChanged = $i;
-				if ( $nVowels === 0 ) {
+				if ( $nVowels === 1 ) {
 					$nPhonemeToBeChanged = 0;
 				} else {
 					if ( $nPreviousConsonant !== -1 ) {
