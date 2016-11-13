@@ -8,16 +8,19 @@ Your contribution is welcomed.
 <h2>Getting Started</h2>
 
 <h3>Install</h3>
+<!--
 <p>You may install the Arpabet-to-IPA with Composer (recommended) or manually.</p>
 <p>Installing Arpabet-to-IPA:</p>
 <pre><code>composer require phlnx/arpabet-to-ipa</code></pre>
+-->
+<p>You may install the Arpabet-to-IPA manually.</p>
 
 <h3>Tutorial</h3>
 <p>Instantiate and use a Arpabet-to-IPA class:</p>
 <pre><code>
-  		$arpabetToIPA = new ArpabetToIPA\App();
-		  $ipaPhoneme = $arpabetToIPA-&gt;getIPA('AA');
-		  $ipaWord = $arpabetToIPA-&gt;getIPA('F OW1 N IY0 M');
+	$arpabetToIPA = new ArpabetToIPA\App();
+	$ipaPhoneme = $arpabetToIPA-&gt;getIPA('AA');
+	$ipaWord = $arpabetToIPA-&gt;getIPA('F OW1 N IY0 M');
 </code></pre>
 
 
