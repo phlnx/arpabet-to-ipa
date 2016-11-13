@@ -10,4 +10,8 @@ require_once ( __DIR__ . '/../src/App.php' );
 
 $o = new ArpabetToIPA\App();
 
-print $o -> getIPA("K AH0 N D IH1 SH AH0 N");
+if ( ( $w = $argv[1] ) === '' ) {
+	$w = "K AH0 N D IH1 SH AH0 N";
+}
+
+print $o -> getIPA ( $w ) . PHP_EOL;
