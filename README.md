@@ -2,7 +2,7 @@
 Arpabet-to-IPA converts Arpabet to IPA.<br/>
 <a href='https://en.wikipedia.org/wiki/Arpabet'>Arpabet</a> is the set of phonemes used by <a href='http://www.speech.cs.cmu.edu/cgi-bin/cmudict'>cmudict</a>, which is The CMU Pronouncing Dictionary. <a href='https://en.wikipedia.org/wiki/IPA'>IPA</a> is the International Phonetic Alphabet.
 
-<p>This version is a derivation of wwesantos/arpabet-to-ipa. The difference is that this version shows primary and secondary stresses. The algorithm for stress attribution isn't 100% precise but it should work in most cases.
+<p>This version is a derivation of <a href='https://github.com/wwesantos/arpabet-to-ipa'>wwesantos/arpabet-to-ipa</a>. The difference is that this version shows primary and secondary stresses. The algorithm for stress attribution isn't 100% precise but it should work in most cases.
 Your contribution is welcomed.
 
 <h2>Getting Started</h2>
